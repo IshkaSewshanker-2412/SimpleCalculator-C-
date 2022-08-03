@@ -1,0 +1,10 @@
+C:\Users\ishka\Desktop\Upload to Github\C#\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\ishka\Desktop\Upload to Github\C#\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\ishka\Desktop\Upload to Github\C#\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\ishka\Desktop\Upload to Github\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\ishka\Desktop\Upload to Github\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+C:\Users\ishka\Desktop\Upload to Github\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\ishka\Desktop\Upload to Github\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\ishka\Desktop\Upload to Github\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ishka\Desktop\Upload to Github\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\ishka\Desktop\Upload to Github\C#\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
