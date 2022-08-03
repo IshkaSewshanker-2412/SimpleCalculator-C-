@@ -14,8 +14,9 @@ Click on the buttons provided below the textboxes, which are ("+", "-", "/", "*"
 #Lastly:
 Your calculation will be displayed in the output textbox
 
-Preview of the simple calculator
+
 ![SimpleCalculator](https://user-images.githubusercontent.com/109598715/182707499-b98b05bd-4b3c-4403-a203-2cdf37436164.png)
+Preview of the simple calculator
 
 adding values
 ![adding values](https://user-images.githubusercontent.com/109598715/182707543-b2de0863-e28c-41ae-a36a-4ac1b132b001.png)
